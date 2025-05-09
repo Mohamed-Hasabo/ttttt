@@ -28,7 +28,7 @@ body {
 .hero {
     text-align: center;
     padding: 100px 20px;
-    background: url('/image/photo1.webp') no-repeat center/cover;
+    background: url('photo1.webp') no-repeat center/cover;
     color: #fff;
     background-size: cover;  /* تأكد من تغطية الصورة بشكل صحيح */
     background-position: center; /* مركز الصورة في الخلفية */
